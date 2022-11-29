@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891974208919",
+    "project_id": "dam014-302test",
+    "storage_bucket": "dam014-302test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891974208919:android:15eb5c05766074abc708d2",
+        "android_client_info": {
+          "package_name": "cl.locas14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891974208919-fpskrt2apmtmsdrp15e3cf3ja9hs08m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnfdwMNdlYRb1W0Z63kR9pg4cH_4w9SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891974208919-fpskrt2apmtmsdrp15e3cf3ja9hs08m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
